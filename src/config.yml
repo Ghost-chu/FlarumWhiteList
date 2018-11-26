@@ -1,0 +1,17 @@
+database:
+    # Database Username
+    user: root
+    # Database User Password
+    password: 123456
+    # Database Hostname/IP address
+    host: baidu.com
+    # Database's database name.
+    database: flarum
+    # Database port
+    port: 25
+    # Database table prefix
+    prefix: "flarum_"
+groupid: 13
+messages:
+    noreg: 您还未注册, 请前往http://xxxx.com注册
+    noverify: 您还不是白名单玩家，请前往论坛申请白名单
